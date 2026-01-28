@@ -20,7 +20,8 @@ body {
 }
 
 .top-bar-content {
-  max-width: 1200px;
+  max-width: 1440px;
+  padding: 0 32px;
   height: 32px;
   margin: 0 auto;
   display: flex;
@@ -139,12 +140,9 @@ body {
 ========================= */
 
 .hero {
-  padding: 64px 0;
-  background: radial-gradient(
-      420px at 78% 48%,
-      rgba(255, 45, 45, 0.14),
-      transparent 60%
-    ),
+  padding: 96px 0;
+  background:
+    git radial-gradient(600px at 75% 50%, rgba(255, 45, 45, 0.25), transparent 65%),
     linear-gradient(180deg, #0b0d10, #07080c);
 }
 
@@ -292,7 +290,9 @@ body {
   padding: 14px 28px;
   border-radius: 8px;
   cursor: pointer;
-  transition: border 0.15s ease, color 0.15s ease;
+  transition:
+    border 0.15s ease,
+    color 0.15s ease;
 }
 
 .btn-secondary:hover {
@@ -303,8 +303,8 @@ body {
 /* IMAGEM HERO */
 
 .image-placeholder {
-  width: 420px;
-  height: 260px;
+  width: 520px;
+  height: 320px;
   background: #1a1d23;
   border-radius: 16px;
   display: flex;
@@ -365,7 +365,9 @@ body {
   align-items: center;
   justify-content: center;
   font-weight: 600;
-  transition: border 0.2s ease, transform 0.2s ease;
+  transition:
+    border 0.2s ease,
+    transform 0.2s ease;
 }
 
 .pc-card:hover {
@@ -400,7 +402,9 @@ body {
   color: #000000;
   padding: 16px;
   border-radius: 16px;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .product-card:hover {
