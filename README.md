@@ -94,7 +94,7 @@ Este projeto foi desenvolvido como **case de estudo**, com foco em demonstrar ca
 
 ## 👤 Autor
 
-Desenvolvido por **[Guilherme Kuerten]**
-UX/UI Designer | full-stack developer
+Desenvolvido por **Guilherme Kuerten**
+UX/UI Designer | Full-Stack Developer
 GitHub: https://github.com/guilhermekuerten735
 LinkedIn: https://www.linkedin.com/in/guilhermekuerten
